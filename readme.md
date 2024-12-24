@@ -104,7 +104,7 @@ Analysis scripts generate detailed visualizations, such as:
 
 - **Messages Sent/Received Per Second**
 - **Performance by Client Count**
-- **Server Metrics Over Time**
+
 
 ---
 
